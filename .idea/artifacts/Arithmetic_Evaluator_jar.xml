@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Arithmetic Evaluator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Arithmetic_Evaluator_jar</output-path>
+    <root id="archive" name="Arithmetic Evaluator.jar">
+      <element id="module-output" name="Arithmetic Evaluator" />
+    </root>
+  </artifact>
+</component>
